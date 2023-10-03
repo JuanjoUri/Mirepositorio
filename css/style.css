@@ -1,0 +1,73 @@
+/*Hoja de estilos*/
+
+.container-fluid{
+    background-color:rgb(27, 63, 129) ;
+}
+
+
+.cabeza{
+    background-color: rgb(27, 63, 129);
+}
+
+.navegador {
+    background-color: rgb(27, 63, 129);
+}
+
+.cuerpo {
+    background-color: rgb(8, 123, 218);
+}
+
+.contenedor {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+}
+
+.resaltar {
+    background-color: yellow;
+}
+
+.resaltar1 {
+    background-color: rgb(8, 123, 218);
+    color: #D2D3D6;
+}
+
+.resaltar2 {
+    background-color: grey;
+    color: #D2D3D6;
+}
+
+.resaltar3 {
+    background-color: rgb(185, 1, 78);
+    color: #D2D3D6;
+}
+
+.piedepagina {
+    background-color: rgb(27, 63, 129);
+}
+
+.textofoto {
+    background-color: rgb(104, 107, 128);
+}
+
+.nombres {
+    height: 30px;
+    width: 200px;
+}
+
+
+.recuadro {
+    height: 100px;
+    width: 400px;
+    align-items: center;
+}
+
+.boton {
+    background-color: rgb(103, 194, 118);
+    height: 35px;
+    width: 400px;
+}
+
